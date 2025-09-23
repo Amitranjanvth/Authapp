@@ -4,7 +4,11 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+<<<<<<< HEAD
     "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js"
+=======
+    "dev": "nodemon -r dotenv/config --experimental-json-modules index.js"
+>>>>>>> feb91f06fd54f2de4de4e4a8c644d60fdbfd346f
   },
   "author": "",
   "license": "ISC",
